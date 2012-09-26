@@ -1,2 +1,4 @@
 khoa1
 khoa2
+thinh1
+
